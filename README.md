@@ -1,5 +1,7 @@
 # Assets
 
+![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)
+
 A place to keep assets for everyone to use as they relate to SacJS.
 
 ## Logos
