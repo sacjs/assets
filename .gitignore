@@ -1,0 +1,18 @@
+# OSX junk files
+.DS_Store
+._*
+.Trashes
+
+# Windows junk files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# in case anyone uses sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+sftp-config.json
